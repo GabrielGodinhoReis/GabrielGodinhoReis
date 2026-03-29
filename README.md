@@ -1,8 +1,8 @@
-# 👋 Olá! Eu sou Gabriel  
+# 👋 Hi, I'm Gabriel  
 
-- 💻 Desenvolvedor  
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-- 🚀 Focado em evoluir minhas habilidades e ampliar meu portfólio com projetos práticos  
+- 💻 Developer  
+- 🎓 Systems Development Student  
+- 🚀 Focused on improving my skills and building a strong portfolio through practical projects  
 
 ---
 
@@ -21,12 +21,12 @@
 
 ---
 
-## 🗄️ Banco de Dados
+## 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 🛠️ Ferramentas
+## 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white)
