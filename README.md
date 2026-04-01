@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gabriel  
 
 - 💻 Developer  
-- 🎓 Systems Development Student  
+- 🎓 Systems Analysis and Development Student 
 - 🚀 Focused on improving my skills and building a strong portfolio through practical projects  
 
 ---
